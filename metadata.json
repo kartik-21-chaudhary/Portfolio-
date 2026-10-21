@@ -1,0 +1,8 @@
+{
+  "name": "Kartik Chaudhary Portfolio",
+  "description": "Portfolio of Kartik Chaudhary, a Computer Science Engineering student specializing in Artificial Intelligence & Data Science, with a focus on DSA, competitive programming and software development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
